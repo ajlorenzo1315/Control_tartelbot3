@@ -3,8 +3,11 @@ Control_tartelbot3
 Es un paquete de ros que utiliza Opencv y mediapipe para el reconocimiento de gestos asi como speech_recognition para el de voz
 Dependencia 
   Opencv  
+  
   Mediapipe 
+  
   SpeechRecognition 
+  
   gTTS
 
 ## Quick starter
